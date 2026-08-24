@@ -1,5 +1,6 @@
 /target
-.env
 *.optimized.wasm
 .stellar/
 **/test_snapshots/
+config.bat
+node_modules
